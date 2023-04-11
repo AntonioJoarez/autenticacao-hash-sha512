@@ -1,0 +1,1 @@
+Para execução basta entrar na pasta HTML e abrir a página de cadastro.html
